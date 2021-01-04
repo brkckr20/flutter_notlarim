@@ -1,0 +1,21 @@
+FLUTTER UYGULAMA GELİŞTİRME YAPABİLMEK İÇİN BİLGİSAYARIN 64BİT OLMASI GEREKLİDİR.
+GİT FOR WİNDOWS YOK İSE YÜKLENMELİDİR.
+KARARLI SON SÜRÜM SDKSI İNDİRİLMELİDİR.
+C: dizini altına src isimli klasör oluşturup indirilen sdk dosyasını oraya at.
+başlat - sistem ortam değişkenlerini düzenle - gelişmiş altındaki ortam değişkenler
+	yazan kısımda path klasörü çift tıklanarak yeni seçilir ve flutter altındaki
+	bin klasörünün yolu oraya eklenir.
+
+vs code da command palette kısa yolu ctrl+shift+p
+
+
+
+gradle hatası alırsak
+// eğer çalışmaz ise com.android.tools.build:gradle:3.5.0 sürümü bir düşürülebilir. güncellemeden dolayı kaynaklanıyor olabilir.
+ 						//orta kısım
+
+widget ağacında değişiklik yapılırsa hot restart yapılmalıdır.
+
+alternatif online editör = https://dartpad.dev/
+
+https://repl.it/ => dart kodları için alternatif editör
